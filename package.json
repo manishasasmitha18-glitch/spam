@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "manaofc-baileys": "latest",
-    "pino-pretty": "latest",
-    "chalk": "latest",
-    "figlet": "latest",
-    "axios": "latest"
+    "pino-pretty": "^11.2.2",
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0",
+    "axios": "^1.7.7"
   },
   "engines": {
     "node": ">=18.0.0"
