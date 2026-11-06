@@ -300,7 +300,7 @@ async function floodAttack(targetNumber, total, useProxy, sendReports, forceSend
 // ─── MAIN ───
 async function main() {
     console.clear();
-    console.log(chalk.red.bold(figlet.textSync("BAN FLOOD", { font: "Standard" })));
+    console.log(chalk.red.bold(figlet.textSync("WA BAND", { font: "Standard" })));
     console.log(chalk.red("  WhatsApp Account BAN Tool\n"));
 
     const target = await askTarget();
